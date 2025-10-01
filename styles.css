@@ -13,6 +13,20 @@ body {
     font-size:36px;
 }
 
+.list {
+     font-family:'Times New Roman', Times, serif;
+     background-color: rgb(172, 184, 247);
+    font-size: 18px;
+    color:rgb(158, 32, 110);
+}
+
+.localnav {
+    font-family:'Times New Roman', Times, serif;
+     background-color: rgb(232, 247, 172);
+    font-size: 18px;
+    color:rgb(32, 76, 158);
+}
+
 .h1 {
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     color: rgb(93, 9, 149);
